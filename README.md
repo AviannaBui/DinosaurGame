@@ -1,6 +1,8 @@
 # Project: Dinosaur Game
 ###### Members: Avianna Bui and Trung Dam
 
+![Screenshot of Dino Game](dinogame.png)
+
 ## Project Description 
 Our project simulates the Dinosaur Game, or Chrome Dino, that is built into the Google Chrome web browser, which was originally created by the Chrome UX team in 2014. The player's goal is to guide a Tyrannosaurus rex across a moving landscape, avoiding as many obstacles as possible to achieve a high score. 
 
